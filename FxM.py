@@ -62,12 +62,12 @@ banner = """
                                  
 -----------------------------------------------
 
-\x1b[1;91m ➣ Coder   : Mishal ❤ FaisaL
-\x1b[1;91m➣ Github  : https://github.com/Mishal007
-\x1b[1;91m➣ Facebook: Faisal Rehman
+\x1b[1;91m➣ Coder   : Mishal ❤ FaisaL
+\x1b[1;92m➣ Github  : https://github.com/Mishal007
+\x1b[1;93m➣ Facebook: Faisal Rehman
 \x1b[1;91m➣ Gift     :  For Mishal Shoni
-\x1b[1;91m➣ Ap Dil Ban k Drakhty Ho Mery Seny main❤
-\x1b[1;91m➣ Gang  :  Night 007 Family
+\x1b[1;96m➣ Ap Dil Ban k Drakhty Ho Mery Seny main❤
+\x1b[1;95m➣ Gang  :  Night 007 Family
 
 -----------------------------------------------"""
 # titik #
